@@ -4,7 +4,7 @@
 
 Me chamo Henrique Freitas, tenho 25 anos e sou natural do Rio Grande do Sul. Sou técnico de Administração pelo IFRS e com mais de 5 anos de experiência na área administrativa. Adquiri meus primeiros conhecimentos sobre desenvolvimento web no curso de Introdução à Front-End da Proz educação, onde desenvolvi meu primeiro site que está disponível em meu GitHub!
 
-Atualmente trabalho em uma startup que atua na área de Marketing Digital, desenvolvendo um papel importante na área responsável pelo Sucesso do Cliente e estou dsenvolvendo habilidades e adquirindo conhecimentos para o desenvolvimento Web. 
+Atualmente trabalho em uma startup que atua com a criação de estrutura digital para empresas, com desenvolvimento de automações, atendimento por IA e CRM (High Level), desenvolvendo um papel importante na área responsável pela implementação do produto. Além disso, eu estou desenvolvendo habilidades e adquirindo conhecimentos para o desenvolvimento Web, iniciando em 2025 o curso superior de Análise e Desenvolvimetno de Sistemas pelo IFS. 
 
  <p align="left">
     <a href="https://github.com//henriquesf17?tab=followers">
